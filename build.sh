@@ -1,0 +1,1 @@
+docker build . -t igormcsouza/python-opt-tools:pyomo-datapeste
