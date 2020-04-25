@@ -7,3 +7,4 @@ Os slides que usamos na reunião será encontrado [aqui](https://docs.google.com
 
  - http://www.pyomo.org/
  - https://rosettacode.org/wiki/Transportation_problem
+ - https://en.wikipedia.org/wiki/Knapsack_problem
